@@ -1,0 +1,1 @@
+python hw3_cnn2.py $1 
